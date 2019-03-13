@@ -1,4 +1,4 @@
-### UGA Computer Science -- Systems, Security, and Privacy Reading Group
+### **UGA Computer Science -- Systems, Security, and Privacy Reading Group**
 
 **List of Faculties**
 1. [Lakshmish Ramaswamy](http://cobweb.cs.uga.edu/~laks/)
