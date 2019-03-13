@@ -1,1 +1,1 @@
-### UGA-ReadingGroup-Systems-Security-Privacy
+### UGA Computer Science -- Systems, Security, and Privacy Reading Group
