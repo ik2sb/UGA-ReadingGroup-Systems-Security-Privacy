@@ -16,3 +16,6 @@
 **C. Topics**
 1. Edge/Fog/IoT Systems and Applications
 2. System Security and Privacy
+
+
+Last Updated: Mar/13/2019
