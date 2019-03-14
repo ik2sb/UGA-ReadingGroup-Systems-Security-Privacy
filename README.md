@@ -17,5 +17,10 @@
 1. Edge/Fog/IoT Systems and Applications
 2. System Security and Privacy
 
+**D. Papers**
+1. **01.Survey-Edge-IoT-Security**: Survey papers related to Edge/Fog, IoT, and Security
+2. **02.Edge-Application**: Smart Farming (Farmbeats -- NSDI'17) and Wild Life Management (Where's the Bear -- IoTDI '17)
+3. **03.IoT-Security**: IoT Security, Sensitive Information Tracking, etc
+
 
 Last Updated: Mar/13/2019
