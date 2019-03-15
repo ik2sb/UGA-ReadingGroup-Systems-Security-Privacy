@@ -11,6 +11,8 @@
 1. Omar Alobaid (alobaid@uga.edu)
 2. Navid Hashemi Tonekaboni (navidht@uga.edu)
 3. Chen Chen (chen1988@uga.edu)
+4. Omid Setayeshfar (omid.s@uga.edu)
+5. Ruoyan Cai (ruoyan.c@uga.edu)
 
 
 **C. Topics**
