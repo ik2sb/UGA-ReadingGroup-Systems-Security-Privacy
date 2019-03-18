@@ -2,7 +2,7 @@
 
 - **Year 2019**
 	- IEEE S&P
-		- HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows(https://smomen2.people.uic.edu/publications/HOLMES.pdf)
+		- HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows
 		- Differentially Private Model Publishing for Deep Learning
 		- Fidelius: Protecting User Secrets from Compromised Browsers
 		- Fuzzing File Systems via Two-Dimensional Input Space Exploration
@@ -12,3 +12,21 @@
 		- Tap 'n Ghost: A Compilation of Novel Attack Techniques against Smartphone Touchscreens
 		- Towards Automated Safety Vetting of PLC Code in Real-World Plants
 		- Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps
+	- NSDI 
+		- Zeno: Diagnosing Performance Problems with Temporal Provenance
+		- dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces
+		- Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services
+	- NDSS
+		- Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries
+		- Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation
+		- Stealthy Adversarial Perturbations Against Real-Time Video Classification Systems
+		- A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems
+		- ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries
+		- A First Look into the Facebook Advertising Ecosystem
+		- NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage
+		- NIC: Detecting Adversarial Samples with Neural Network Invariant Checking
+		- Digital Healthcare-Associated Infection Analysis of a Major Multi-Campus Hospital System
+		- RFDIDS: Radio Frequency-based Distributed Intrusion Detection System for the Power Grid
+		- Mind your Own Business: A Longitudinal Study of Threats and Vulnerabilities in Enterprises
+
+- **Year 2018**		
