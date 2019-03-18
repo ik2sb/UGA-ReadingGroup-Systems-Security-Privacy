@@ -1,13 +1,16 @@
 ### UGA Computer Science -- Systems, Security, and Privacy Reading Group
 
-**A. List of Faculties**
+**0. Meeting Information**
+- Time and Location: 4:30 p.m. every Monday at BOYD 527B (location is subject to change)
+
+**1. List of Faculties**
 1. [Lakshmish Ramaswamy](http://cobweb.cs.uga.edu/~laks/)
 2. [Kyu H. Lee](http://cobweb.cs.uga.edu/~kyuhlee/)
 3. [Jaewoo Lee](http://cobweb.cs.uga.edu/~jwlee/)
 4. [In Kee Kim](http://cobweb.cs.uga.edu/~kim/)
 
 
-**A. List of Graduate Students**
+**2. List of Graduate Students**
 1. Omar Alobaid (alobaid@uga.edu)
 2. Navid Hashemi Tonekaboni (navidht@uga.edu)
 3. Chen Chen (chen1988@uga.edu)
@@ -16,11 +19,11 @@
 6. Karthika Subramani (karthika.subramani25@uga.edu)
 
 
-**C. Topics**
+**3. Topics**
 1. Edge/Fog/IoT Systems and Applications
 2. System Security and Privacy
 
-**D. Papers**
+**4. Papers**
 1. **01.Survey-Edge-IoT-Security**: Survey papers related to Edge/Fog, IoT, and Security
 2. **02.Edge-Application**: Smart Farming (Farmbeats -- NSDI'17) and Wild Life Management (Where's the Bear -- IoTDI '17)
 3. **03.IoT-Security**: IoT Security, Sensitive Information Tracking, etc
