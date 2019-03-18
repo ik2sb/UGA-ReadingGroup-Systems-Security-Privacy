@@ -13,6 +13,7 @@
 3. Chen Chen (chen1988@uga.edu)
 4. Omid Setayeshfar (omid.s@uga.edu)
 5. Ruoyan Cai (ruoyan.c@uga.edu)
+6. Karthika Subramani (karthika.subramani25@uga.edu)
 
 
 **C. Topics**
