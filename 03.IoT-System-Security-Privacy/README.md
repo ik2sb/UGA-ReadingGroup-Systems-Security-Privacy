@@ -12,10 +12,12 @@
 		- Tap 'n Ghost: A Compilation of Novel Attack Techniques against Smartphone Touchscreens
 		- Towards Automated Safety Vetting of PLC Code in Real-World Plants
 		- Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps
+
 	- NSDI 
 		- Zeno: Diagnosing Performance Problems with Temporal Provenance
 		- dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces
 		- Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services
+		
 	- NDSS
 		- Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries
 		- Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation
