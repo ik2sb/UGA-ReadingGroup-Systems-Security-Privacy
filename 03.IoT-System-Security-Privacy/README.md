@@ -13,7 +13,7 @@
 		- Towards Automated Safety Vetting of PLC Code in Real-World Plants
 		- Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps
 
-	- NSDI 
+	- USENIX NSDI 
 		- Zeno: Diagnosing Performance Problems with Temporal Provenance
 		- dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces
 		- Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services
@@ -32,7 +32,7 @@
 		- Mind your Own Business: A Longitudinal Study of Threats and Vulnerabilities in Enterprises
 
 - **Year 2018**		
-	- CCS
+	- ACM CCS
 		- Towards Fine-grained Network Security Forensics and Diagnosis in the SDN Era
 		- MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
 		- Fraud De-Anonymization For Fun and Profit
@@ -58,3 +58,105 @@
 		- Phishing Attacks on Modern Android
 		- Revery: from Proof-of-Concept to Exploitable (One Step towards Automatic Exploit Generation)
 		- Evaluating Fuzz Testing
+
+	- USENIX Security
+		- Skill Squatting Attacks on Amazon Alexa
+		- ACES: Automatic Compartments for Embedded Systems
+		- ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem
+		- Charm: Facilitating Dynamic Analysis of Device Drivers of Mobile Systems
+		- Inception: System-Wide Security Testing of Real-World Embedded Systems Software
+		- Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers
+		- NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications
+		- The Battle for New York: A Case Study of Applied Digital Threat Modeling at the Enterprise Level
+		- SAQL: A Stream-based Query System for Real-Time Abnormal System Behavior Detection
+		- MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation
+		- QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing
+		- Automatic Heap Layout Manipulation for Exploitation
+		- FUZE: Towards Facilitating Exploit Generation for Kernel Use-After-Free Vulnerabilities
+		- The Broken Shield: Measuring Revocation Effectiveness in the Windows Code-Signing PKI
+		- From Patching Delays to Infection Symptoms: Using Risk Profiles for an Early Discovery of Vulnerabilities Exploited in the Wild
+		- Understanding the Reproducibility of Crowd-reported Security Vulnerabilities
+		- Meltdown: Reading Kernel Memory from User Space
+		- Plug and Prey? Measuring the Commoditization of Cybercrime via Online Anonymous Markets
+		- End-to-End Measurements of Email Spoofing Attacks
+		- End-Users Get Maneuvered: Empirical Analysis of Redirection Hijacking in Content Delivery Networks
+		- An Empirical Study of Web Resource Manipulation in Real-world Mobile Applications
+		- Fast and Service-preserving Recovery from Malware Infections Using CRIU
+		- Security Namespace: Making Linux Security Frameworks Available to Containers
+		- Sensitive Information Tracking in Commodity IoT
+		- Enabling Refinable Cross-Host Attack Investigation with Efficient Data Flow Tagging and Tracking
+		- Dependence-Preserving Data Compaction for Scalable Forensic Analysis
+		- Precise and Accurate Patch Presence Test for Binaries
+
+	- USENIX ATC
+		- On Smart Query Routing: For Distributed Graph Querying with Decoupled Storage
+		- NanoLog: A Nanosecond Scale Logging System
+		- Troubleshooting Transiently-Recurring Errors in Production Systems with Blame-Proportional Logging
+		- Soteria: Automated IoT Safety and Security Analysis
+		- AIQL: Enabling Efficient Attack Investigation from System Monitoring Data
+		- Redesigning LSMs for Nonvolatile Memory with NoveLSM
+
+	- RAID Symposium
+		- BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews
+		- Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails
+		- Backdoors: Definition, Deniability and Detection
+		- Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures
+		- τCFI: Type-Assisted Control Flow Integrity for x86-64 Binaries
+		- Generic Black-Box End-to-End Attack Against State of the Art API Call Based Malware Classifiers
+		- Malicious IoT Implants: Tampering with Serial Communication over the Internet
+		- Before Toasters Rise Up: A View Into the Emerging IoT Threat Landscape
+		- KASR: A Reliable and Practical Approach to Attack Surface Reduction of Commodity OS Kernels
+
+	- IEEE S&P
+		- Hackers vs. Testers: A Comparison of Software Vulnerability Discovery Processes
+		- Compiler-assisted Code Randomization
+		- Learning from Mutants: Using Code Mutation to Learn and Monitor Invariants of a Cyber-Physical System
+		- Precise and Scalable Detection of Double-Fetch Bugs in OS Kernels
+		- CollAFL: Path Sensitive Fuzzing
+		- Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications
+		- Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies & Vulnerabilities
+		- Understanding Linux Malware
+
+	- NDSS
+		- Investigating Ad Transparency Mechanisms in Social Media: A Case Study of Facebook's Explanations
+		- Towards a Timely Causality Analysis for Enterprise Security
+		- JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions
+		- MCI: Modeling-based Causality Inference in Audit Logging for Attack Investigation
+		- Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs
+		- When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
+		- Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing
+		- Superset Disassembly: Statically Rewriting x86 Binaries Without Heuristics
+		- K-Miner: Uncovering Memory Corruption in Linux
+		- Automated Generation of Event-Oriented Exploits in Android Hybrid Apps
+		- Securing Real-Time Microcontroller Systems through Customized Memory View Switching
+		- Things You May Not Know About Android (Un) Packers : A Systematic Study based on Whole-System Emulation
+		- Trojaning Attack on Neural Networks
+		- Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
+		- VulDeePecker: A Deep Learning-Based System for Vulnerability Detection
+		- Automated Website Fingerprinting through Deep Learning
+		- IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing
+		- Didn't You Hear Me? — Towards More Successful Web Vulnerability Notifications
+		- Fear and Logging in the Internet of Things
+		- What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices
+
+	- USENIX OSDI
+		- Differential Energy Profiling: Energy Optimization via Diffing Similar Apps
+		- An Analysis of Network-Partitioning Failures in Cloud Systems
+
+- **Year 2017**
+	- ACM CCS
+		- Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection
+		- Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking
+		- Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews
+		- The ART of App Compartmentalization: Compiler-based Library Privilege Separation on Stock Android
+		- Data Breaches, Phishing, or Malware? Understanding the Risks of Stolen Credentials
+		- RiskTeller: Predicting the Risk of Cyber Incidents
+		- DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning
+		- SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities
+		- FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution
+		- A Large-Scale Empirical Study of Security Patches
+		- Keep me Updated: An Empirical Study of Third-Party Library Updatability on Android
+
+	- IEEE Euro S&P
+		- Efficient and Flexible Discovery of PHP Application Vulnerabilities
+
