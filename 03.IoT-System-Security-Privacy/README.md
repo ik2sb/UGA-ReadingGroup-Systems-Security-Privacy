@@ -17,7 +17,7 @@
 		- Zeno: Diagnosing Performance Problems with Temporal Provenance
 		- dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces
 		- Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services
-		
+
 	- NDSS
 		- Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries
 		- Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation
@@ -32,3 +32,29 @@
 		- Mind your Own Business: A Longitudinal Study of Threats and Vulnerabilities in Enterprises
 
 - **Year 2018**		
+	- CCS
+		- Towards Fine-grained Network Security Forensics and Diagnosis in the SDN Era
+		- MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+		- Fraud De-Anonymization For Fun and Profit
+		- LEMNA: Explaining Deep Learning based Security Applications
+		- Towards Paving the Way for Large-Scale Windows Malware Analysis: Generic Binary Unpacking with Orders-of-Magnitude Performance Boost
+		- Preserving Both Privacy and Utility in Network Trace Anonymization
+		- DeepMem: Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis
+		- Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks
+		- Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach
+		- HoMonit: Monitoring Smart Home Apps from Encrypted Traffic
+		- Pinto: Enabling Video Privacy for Commodity IoT Cameras
+		- If This Then What? Controlling Flows in IoT Apps
+		- ClickShield: Are You Hiding Something? Towards Eradicating Clickjacking on Android
+		- Precise Android API Protection Mapping Derivation and Reasoning
+		- NodeMerge: Template Based Efficient Data Reduction For Big-Data Causality Analysis
+		- EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis
+		- Runtime Analysis of Whole-System Provenance
+		- Web's Sixth Sense: A Study of Scripts Accessing Smartphone Sensors
+		- A Robust and Efficient Defense against Use-after-Free Exploits via Concurrent Pointer Sweeping
+		- Debin: Predicting Debug Information in Stripped Binaries
+		- Mystique: Uncovering Information Leakage from Browser Extensions
+		- Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications
+		- Phishing Attacks on Modern Android
+		- Revery: from Proof-of-Concept to Exploitable (One Step towards Automatic Exploit Generation)
+		- Evaluating Fuzz Testing
