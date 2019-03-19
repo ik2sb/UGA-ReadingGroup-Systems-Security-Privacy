@@ -94,9 +94,9 @@
 - **PETS (https://petsymposium.org/)**
 
 ### Data Science, AI, and Machine Learning
-- ACM KDD (https://www.kdd.org/)
+- **ACM KDD (https://www.kdd.org/)**
 - ICML (https://icml.cc/)
 - NIPS (https://nips.cc/)
-- ICDE (http://conferences.cis.umac.mo/icde2019/)
-- AIStats (https://www.aistats.org/)
+- **ICDE (http://conferences.cis.umac.mo/icde2019/)**
+- **AIStats (https://www.aistats.org/)**
 - IEEE Big Data (http://cci.drexel.edu/bigdata/bigdata2019/CallPapers.html)
